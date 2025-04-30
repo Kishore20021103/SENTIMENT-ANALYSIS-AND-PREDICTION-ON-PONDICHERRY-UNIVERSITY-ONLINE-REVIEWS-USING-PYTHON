@@ -1,9 +1,7 @@
 # SENTIMENT-ANALYSIS-AND-PREDICTION-ON-PONDICHERRY-UNIVERSITY-ONLINE-REVIEWS-USING-PYTHON
+## Description
 
 This project leverages Natural Language Processing (NLP) and machine learning techniques to analyze and predict sentiment in online reviews related to Pondicherry University. The goal is to automatically determine whether feedback from students is positive, negative, or neutral, providing actionable insights for institutional improvement.
-
-## Description
-This project provides a comprehensive analysis of cricket player performance data, focusing on batting and bowling statistics. By loading, cleaning, and analyzing data from the `Main_data.xlsx` file, this project identifies key performance indicators (KPIs), uncovers performance trends, and extracts actionable insights to aid team strategies and player development.
 
 ## Objective
 
