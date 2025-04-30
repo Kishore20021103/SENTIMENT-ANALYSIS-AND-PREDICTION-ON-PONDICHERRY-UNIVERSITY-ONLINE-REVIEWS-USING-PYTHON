@@ -1,0 +1,2 @@
+# SENTIMENT-ANALYSIS-AND-PREDICTION-ON-PONDICHERRY-UNIVERSITY-ONLINE-REVIEWS-USING-PYTHON
+This project leverages Natural Language Processing (NLP) and machine learning techniques to analyze and predict sentiment in online reviews related to Pondicherry University. The goal is to automatically determine whether feedback from students is positive, negative, or neutral, providing actionable insights for institutional improvement.
