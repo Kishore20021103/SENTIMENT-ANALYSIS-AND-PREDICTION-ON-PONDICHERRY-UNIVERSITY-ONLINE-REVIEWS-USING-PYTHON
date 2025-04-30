@@ -1,4 +1,4 @@
-# SENTIMENT-ANALYSIS-AND-PREDICTION-ON-PONDICHERRY-UNIVERSITY-ONLINE-REVIEWS-USING-PYTHON
+# SENTIMENT ANALYSIS AND PREDICTION ON PONDICHERRY UNIVERSITY ONLINE REVIEWS USING PYTHON
 ## Description
 
 This project leverages Natural Language Processing (NLP) and machine learning techniques to analyze and predict sentiment in online reviews related to Pondicherry University. The goal is to automatically determine whether feedback from students is positive, negative, or neutral, providing actionable insights for institutional improvement.
@@ -56,8 +56,8 @@ Steps Involved in Sentiment Analysis and Prediction Project
 
 5. **Model Building**
    
-   * Select suitable machine learning algorithms such as Logistic Regression, Support Vector Machines, Random Forest, or deep learning models like LSTM.
-
+   * Select suitable machine learning algorithms such as Decision Tree classifier, Navie Bayes classifier, etc.
+     
    * Split the dataset into training and testing sets.
 
    * Train the model on the training data using the extracted features.
